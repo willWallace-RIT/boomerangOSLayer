@@ -2,6 +2,8 @@ Boomerang: Context Switching Layer for Operating Systems
 
 Overview
 
+based off of github.com/willWillace-RIT/boomerang.sh or github.com/willWillace-RIT/rexecute.sh
+
 Boomerang is a GUI-level context switching system built on top of snapshot-based application state.
 
 Instead of traditional multitasking (background processes), Boomerang introduces:
